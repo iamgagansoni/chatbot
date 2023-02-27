@@ -1,0 +1,10 @@
+{"datas":[
+    {
+        "tag":"greeting",
+        "patterns": ["Hello","Hi", "How are you?","Who are you?"],
+        "responces": ["Hey, I am Jarvis. Please enter the query for which you seek support."],
+        "context": [""]
+    }
+    
+]
+}
